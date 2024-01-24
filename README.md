@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aialchemy1&label=Profile%20views&color=0e75b6&style=flat" alt="aialchemy1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aialchemy1" alt="aialchemy1" /></a> </p>
-
 - 🔭 I’m currently working on **Compter Vision, NLP and Generative AI.**
 
 - 🌱 I’m currently learning **Generative AI and Cloud Computing.**
