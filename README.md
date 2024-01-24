@@ -17,7 +17,7 @@
 
 - 💬 Some of my projects can be found at [https://kaggle.com/AIAlchemy1](https://kaggle.com/AIAlchemy1)
 
-- 📫 I am contactable at LinkedIn [https://linkedin.com/in/AIAlchemy1](https://linked.com/in/AIAlchemy1)
+- 📫 I am contactable at LinkedIn [https://linkedin.com/in/AIAlchemy1](https://linkedin.com/in/AIAlchemy1)
 
 - 🤗 You can find me at Hugging Face [https://huggingface.co/AIAlchemy1](https://huggingface.co/AIAlchemy1)
 
