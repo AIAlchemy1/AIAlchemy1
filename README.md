@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on X(Twitter) [https://twitter.com/AIAlchemy1](https://twitter.com/AIAlchemy1)
 
-- 📫 I am contactable at LinkedIn **https://www.linkedin.com/in/AIAlchemy1/**
+- 📫 I am contactable at LinkedIn [https://linkedin.com/in/AIAlchemy1](https://linkedin.com/in/AIAlchemy1)
 
 - 🤗 You can find me at Hugging Face [https://huggingface.co/AIAlchemy1](https://huggingface.co/AIAlchemy1)
 
