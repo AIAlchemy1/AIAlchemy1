@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AIAlchemy1 by Ebrahim</h1>
 <h3 align="center">An AI-ML Engineer passionate about the transformative power of Artificial Intelligence and Machine Learning.</h3>
 
-<a href="https://imgur.com/a/WglUSKg"><img src="https://imgur.com/a/WglUSKg.png" title="source: imgure.com" /></a>
+<a href="https://ibb.co/Bfbjj41"><img src="https://i.ibb.co/PrK44TS/AIBanner1.png" alt="AIBanner1" border="0"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aialchemy1&label=Profile%20views&color=0e75b6&style=flat" alt="aialchemy1" /> </p>
 
