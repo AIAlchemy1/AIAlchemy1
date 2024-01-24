@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AIAlchemy1 by Ebrahim</h1>
 <h3 align="center">An AI-ML Engineer passionate about the transformative power of Artificial Intelligence and Machine Learning.</h3>
 
-<a href="https://ibb.co/7rXHdLH"><img src="https://i.ibb.co/ygXDc7D/Untitled.png" width="1400" alt="Untitled" border="0"></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aialchemy1&label=Profile%20views&color=0e75b6&style=flat" alt="aialchemy1" /> </p>
 
 - 🔭 I’m currently working on **Compter Vision, NLP and Generative AI.**
@@ -15,7 +13,9 @@
 
 - 📝 I regularly write articles on X(Twitter) [https://twitter.com/AIAlchemy1](https://twitter.com/AIAlchemy1)
 
-- 📫 I am contactable at LinkedIn [https://linkedin.com/in/AIAlchemy1](https://linkedin.com/in/AIAlchemy1)
+- 💬 Some of my projects can be found at [https://kaggle.com/AIAlchemy1](https://kaggle.com/AIAlchemy1)
+
+- 📫 I am contactable at LinkedIn [https://linkedin.com/in/AIAlchemy1](https://linked.com/in/AIAlchemy1)
 
 - 🤗 You can find me at Hugging Face [https://huggingface.co/AIAlchemy1](https://huggingface.co/AIAlchemy1)
 
